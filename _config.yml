@@ -30,7 +30,7 @@ url: "https://userve-doc.github.io/POS_GUILD/" # the base hostname & protocol fo
 #github_username:
 
 # Build settings
-theme: jekyll-theme-slate
+remote_theme: rundocs/jekyll-rtd-theme
 plugins:
   - jekyll-feed
 
