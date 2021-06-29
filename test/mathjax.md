@@ -1,8 +1,8 @@
 ---
-sort: 10
+sort: 7
 ---
 
-# Mathjax Test
+# 分单付款
 
 $$
 \begin{aligned}

@@ -1,5 +1,5 @@
 ---
-sort: 9
+sort: 4
 text: |
   ABCDEFGHIJKLMNOPQRSTUVWXYZ
   abcdefghijklmnopqrstuvwxyz
@@ -8,7 +8,7 @@ text: |
   ‘?’“!”(%)[#]{@}/&\<-+÷×=>®©$€£¥¢:;,.*
 ---
 
-# Fonts Test
+# 打折
 
 `{:.font-mono}`
 
