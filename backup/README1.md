@@ -1,8 +1,8 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# 快速入门
+# Test Documentation
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}

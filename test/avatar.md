@@ -1,8 +1,8 @@
 ---
-sort: 7
+sort: 1
 ---
 
-# Avatar Test
+# 基本流程
 
 ```
 {% raw %}{% avatar saowang %}{% endraw %}
