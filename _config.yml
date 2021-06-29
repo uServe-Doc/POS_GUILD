@@ -7,7 +7,8 @@ theme: rundocs/jekyll-rtd-theme
 #   compress: true
 #   dist: false
 #   shortcodes: true
-
+lang:
+  en,zh
 readme_index:
   with_frontmatter: true
 
