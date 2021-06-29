@@ -8,7 +8,8 @@ theme: rundocs/jekyll-rtd-theme
 #   dist: false
 #   shortcodes: true
 lang:
-  en,zh
+  - en
+  - ch
 readme_index:
   with_frontmatter: true
 
